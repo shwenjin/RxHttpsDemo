@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxHttp</string>
+    <!-- 提示dialog -->
+    <string name="dialog_title">提示</string>
+    <string name="dialog_yes">是</string>
+    <string name="dialog_no">否</string>
+</resources>
